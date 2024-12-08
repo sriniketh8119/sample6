@@ -1,4 +1,4 @@
-public class One_to_Hundred_PrimeNumbers {
+public class One_to_Hundred{
     public static void main(String[] args) {
         System.out.println("Prime numbers from 1 to 100:");
         for (int num = 2; num <= 100; num++) {
